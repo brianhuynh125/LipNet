@@ -1,3 +1,6 @@
 torch
 torchvision
 dlib
+cmake
+progressbar
+skimage
